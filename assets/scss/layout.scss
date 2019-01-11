@@ -1,0 +1,8 @@
+@tailwind preflight;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  @apply bg-maroon font-sans text-white;
+}
