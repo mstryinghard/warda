@@ -129,7 +129,7 @@ let colors = {
   'pink-lighter': '#ffbbca',
   'pink-lightest': '#ffebef',
 
-  'maroon': '#782e30',
+  'maroon': '#490b15',
 }
 
 module.exports = {
