@@ -129,6 +129,7 @@ let colors = {
   'pink-lighter': '#ffbbca',
   'pink-lightest': '#ffebef',
 
+  'maroon-darkest': '#2b070d',
   'maroon': '#490b15',
 }
 
@@ -470,6 +471,7 @@ module.exports = {
     '32': '8rem',
     '48': '12rem',
     '64': '16rem',
+    '128': '32rem',
     '1/2': '50%',
     '1/3': '33.33333%',
     '2/3': '66.66667%',
@@ -518,6 +520,7 @@ module.exports = {
     '32': '8rem',
     '48': '12rem',
     '64': '16rem',
+    '32': '128rem',
     'full': '100%',
     '1/4': '25vh',
     '1/2': '50vh',
